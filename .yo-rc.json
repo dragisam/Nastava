@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ald.nastava",
+      "nativeLanguage": "sr"
+    },
+    "jhipsterVersion": "4.5.6",
+    "baseName": "Nastava",
+    "packageName": "com.ald.nastava",
+    "packageFolder": "com/ald/nastava",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "40298936ae2667f179b6a88ed1bfb1795cb4cd47",
+    "clientFramework": "angular2",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "sr",
+    "languages": [
+      "sr",
+      "en"
+    ]
+  }
+}
